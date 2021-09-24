@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Biodata</string>
+    <string name="name">Nama</string>
+    <string name="myname">: Rahadian Kristiyanto Rachman</string>
+    <string name="nim">NIM</string>
+    <string name="mynim">: A11.2020.12724</string>
+    <string name="doswal">Doswal</string>
+    <string name="mydoswal">: Junta Zeinarja</string>
+    <string name="phone">No. HP</string>
+    <string name="myphone">: +6285742577817</string>
+    <string name="email">E-mail</string>
+    <string name="myemail">: 111202012724@mhs.dinus.ac.id</string>
+    <string name="myemail2"> rahadiankristiyanto03@gmail.com</string>
+    <string name="addres">Alamat</string>
+    <string name="myaddres">: Penggungharjo RT.01/RW.09,</string>
+    <string name="myaddres2">Wirosari, Grobogan, Jawa Tengah</string>
+    <string name="religion">Agama</string>
+    <string name="myreligion">: Kristen</string>
+
+    <string name="biodata">
+        <list>
+            Nama<br></br>
+            NIM<br></br>
+            Doswal<br></br>
+        </list>
+    </string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
