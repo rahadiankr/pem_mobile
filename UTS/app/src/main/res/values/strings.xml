@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">WarungKu</string>
+
+    <string-array name="daftar_menu">
+        <item>Swekei Purwodadi</item>
+        <item>Nasi Pager</item>
+        <item>Nasi Pencok</item>
+        <item>Nasi jagung</item>
+        <item>Sayur Becek</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Swike merupakan kuliner ekstrim yang dibuat dari katak.</item>
+        <item>Kuliner yang unik yang hampir mirip dengan nasi urap.</item>
+        <item>Ayam pencok atau biasa disebut ayam panggang bleduk.</item>
+        <item>Nasi jagung merupakan makanan pokok warga yang tinggal di pelosok desa.</item>
+        <item>Sayur becek cukup tenar dan terbuat dari keong atau tutut.</item>
+    </string-array>
+
+    <string-array name="deskripsi_pjg">
+        <item>Swike merupakan salah satu oleh-oleh khas Grobogan yang wajib kamu bawa pulang.
+            Makanan yang satu ini cukup ekstrim namun tetap banyak diburu karena rasanya yang unik dan enak.
+            Kuliner ini dibuat dari katak atau kodok, khususnya paha katak.
+            Kamu bisa datang langsung ke warung Swike untuk merasakan enaknya olahan dari daging katak mulai dari sop paha katak,
+            pepes, goreng, hingga tumis katak.</item>
+        <item>Satu lagi kuliner unik yang bisa dijadikan oleh-oleh khas Grobogan ketika kamu menghabiskan waktu di kota tersebut.
+            Salah satu kabupaten yang ada di Jawa Tengah ini menyajikan kuliner yang unik yang hampir mirip dengan nasi urap.
+            Sepiring nasi pager berisi nasi hangat, berbagai jenis sayuran kemudian diberi taburan serundeng dan disiram dengan sambal pecel.</item>
+        <item>Kuliner unik yang cocok dijadikan oleh-oleh khas Grobogan adalah ayam pencok atau biasa disebut ayam panggang bleduk.
+            Untuk penyajian ayam panggang ini bersama dengan sambal pencok yang dibuat dari kelapa parut yang diberi beberapa bumbu seperti cabai, terasi, bawang, serta kencur.
+        Penggunaan sambal pencok inilah yang membuat kuliner ini disebut ayam pencok. Untuk membuat ayam panggang tidak begitu sulit, pertama ayam diberi beberapa bumbu pilihan kemudian siapkan bara api lalu ayam siap dipanggang hingga matang dan menghasilkan aroma yang menggoda.
+        </item>
+        <item>Kuliner selanjutnya dari kota Grobogan yang banyak diburu adalah nasi jagung. Bahkan nasi jagung menjadi salah satu makanan pokok warga yang tinggal di pelosok desa.
+            Nasi jagung merupakan salah satu pakan pengganti nasi atau beras yang kaya akan vitamin, selain itu bagi penderita diabetes memang lebih dianjurkan makan nasi jagung karena rendah karbo atau rendah gula.
+        </item>
+        <item>Kota Grobogan, Jawa Tengah bukan hanya kaya akan tempat wisata nan menawan, namun deretan kulinernya juga mampu menarik minat para wisatawan untuk berkunjung, salah satunya adalah sayur becek.
+            Sayur becek atau soto becek ini cukup tenar dan terbuat dari keong atau tutut. Jika kamu juga penasaran dengan kuliner unik yang satu ini bisa coba datang langsung ke kawasan Purwodadi, dimana banyak sekali warung makan yang menjual sayur becek.
+            Untuk membuat soto sayur becek sebenarnya tidak terlalu sulit, pertama siapkan bahan – bahannya, mulai dari keong atau tutu, serta diberi beberapa bumbu pilihan seperti bawang putih, bawang merah, kemiri, ketumbar, serta cabai.
+        </item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>Rp 25.000</item>
+        <item>Rp 7.000</item>
+        <item>Rp 12.000</item>
+        <item>Rp 3.000</item>
+        <item>Rp 35.000</item>
+    </string-array>
+</resources>
