@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Data Ardi/Pendaftaran Univ/UDINUS/MULAI KULIAH/PELAJARAN/Semester 3/Pemrograman Perangkat Bergerak/uas_ppb/app/src/main/res/layout/activity_main.xml" value="0.21195652173913043" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/drawable/login_btn.xml" value="0.11614583333333334" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/drawable/login_txt.xml" value="0.11614583333333334" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/drawable/singup_btn.xml" value="0.22552083333333334" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/layout/activity_forgotpassword.xml" value="0.22" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/layout/activity_kalkulator.xml" value="0.209375" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/layout/activity_note.xml" value="0.209375" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/layout/activity_note2.xml" value="0.16" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/layout/activity_singup.xml" value="0.25" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/layout/notes_layout.xml" value="0.25" />
+        <entry key="..\:/UAS PPB/uas_ppb/app/src/main/res/menu/menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

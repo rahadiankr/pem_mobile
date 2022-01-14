@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715996248777",
+    "project_id": "mytoolsapp-252ea",
+    "storage_bucket": "mytoolsapp-252ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715996248777:android:5d5a921b0c0114332d2b18",
+        "android_client_info": {
+          "package_name": "com.example.uas_ppb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715996248777-t414fe1ff92s069k3k2vj0j6befc84kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS3NcbZ1wvIfV7PC7e76AmOExp6QT0s58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715996248777-t414fe1ff92s069k3k2vj0j6befc84kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
